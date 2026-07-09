@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bf-2026-q3-06-fast-bridging-loans.zeabur.app/sitemap.xml
+Sitemap: https://bf-2026-q3-06-fast-bridging-lo.zeabur.app/sitemap.xml
